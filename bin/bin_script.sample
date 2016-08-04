@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+let path = require('path');
+
+let project_path = path.dirname(require.main.filename) + "/../";
